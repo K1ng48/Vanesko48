@@ -3,3 +3,36 @@ re
 regedit
 press no F
 XAXAXAXAXAXAXAXXA I HACKER
+#include <stdio.h>
+
+int der_x (int a, int b)
+{
+    retutn (a+b);
+}
+
+int x_der (int a, int b)
+{
+    return (a-b);
+}
+
+int xd_er (int a, int b)
+{
+    return (a*b);
+}
+
+double er_xd (double a, double b)
+{
+    return (a/b)
+}
+
+int main()
+{
+    printf ("сумма: %i\n", der_x)
+    printf ("вычитание %i\n:", x_der)
+    printf ("умножение %i\n:", xd_er)
+    printf ("деление %i\n:", er_xd)
+
+int a = 10;
+
+    return 0;
+}
