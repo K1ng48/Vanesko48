@@ -1,3 +1,4 @@
 Hello Monkey!
 re
 regedit
+press no F
